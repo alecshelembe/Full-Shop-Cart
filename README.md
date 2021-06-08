@@ -1,4 +1,4 @@
-# Full-Shop-Cart
+# Basic-shoping-Cart
 
 Shoping list + cart 
 Not suitable for commercial use
